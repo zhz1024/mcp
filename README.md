@@ -1,0 +1,2 @@
+# mcp
+这是我自己基于Python开发的一些MCP小工具，推荐使用LobeChat Desktop或VScode进行二次开发
